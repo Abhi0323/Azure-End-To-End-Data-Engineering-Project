@@ -17,7 +17,7 @@ This project illustrates a complete data engineering workflow that connects GitH
 
 
 
-* ## 2. Data Transformation
+## 2. Data Transformation
   
 * **Azure Data Factory:** Employed Azure Data Factory to orchestrate the data flow from GitHub to Azure Data Lake Storage Gen2, setting the stage for processing.
 * **Azure Databricks:** Utilized PySpark within Azure Databricks for robust data transformation, ensuring that the data was primed for analysis and adhered to the required format and schema.
@@ -28,11 +28,11 @@ This project illustrates a complete data engineering workflow that connects GitH
 
 
 
-* ## 3. Data Storage
+## 3. Data Storage
   
 * **Data Lake Storage Gen2:** Configured to store both the ingested raw data and the transformed datasets, allowing for scalable and secure data management.
 
-* ## 4. Data Analytics
+## 4. Data Analytics
   
 * **Azure Synapse Analytics:** Performed analytics on the transformed data using Azure Synapse Analytics, executing SQL queries to uncover business insights and create reports.
 
