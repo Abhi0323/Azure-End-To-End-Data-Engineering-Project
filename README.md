@@ -6,7 +6,7 @@ This project illustrates a complete data engineering workflow that connects GitH
 
 ## Process Workflow
 
-* ## 1. Data Ingestion
+## 1. Data Ingestion
 
 * **GitHub Repository Connection:** Set up a connection to a GitHub repository to ingest raw data into the Azure environment, bypassing the need for manual file management and enabling direct data flow into the pipeline.
 
