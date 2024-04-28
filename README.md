@@ -1,13 +1,14 @@
 # Azure-End-To-End-Data-Engineering-Project
 
-**Project Summary**
+## Project Summary
 
 This project illustrates a complete data engineering workflow that connects GitHub repositories to Azure services for efficient data ingestion, transformation, and analysis. The goal was to establish a seamless pipeline that reflects real-world business analytics scenarios and to demonstrate a thorough understanding of Azure's data services and tools.
 
-**Process Workflow**
+## Process Workflow
 
-**Data Ingestion**
-GitHub Repository Connection: Set up a connection to a GitHub repository to ingest raw data into the Azure environment, bypassing the need for manual file management and enabling direct data flow into the pipeline.
+* ## 1. Data Ingestion
+
+* **GitHub Repository Connection:** Set up a connection to a GitHub repository to ingest raw data into the Azure environment, bypassing the need for manual file management and enabling direct data flow into the pipeline.
 
 
 
@@ -16,7 +17,7 @@ GitHub Repository Connection: Set up a connection to a GitHub repository to inge
 
 
 
-**Data Transformation**
+## Data Transformation
 Azure Data Factory: Employed Azure Data Factory to orchestrate the data flow from GitHub to Azure Data Lake Storage Gen2, setting the stage for processing.
 Azure Databricks: Utilized PySpark within Azure Databricks for robust data transformation, ensuring that the data was primed for analysis and adhered to the required format and schema.
 
